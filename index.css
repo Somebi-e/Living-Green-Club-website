@@ -1,0 +1,46 @@
+
+h1{
+text-align: center;
+color: white;
+background-color: #33cc33;
+font: serif;}
+body{
+padding: 10px;
+background-color: #009900
+}
+div{     
+text-align: right}
+
+/* unvisited link */
+.link:link {
+background-color: white;
+  color: black;
+  border: 5px solid #006600;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  
+}
+
+/* visited link */
+.link:visited {
+  background-color: white;
+  color: black;
+  border: 5px solid #006600;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+/* mouse over link */
+.link:hover {
+  color: #006600;
+}
+
+/* selected link 
+.link:active {
+  color: white;
+}
+*/
